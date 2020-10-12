@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Dani testing",
+    "category": "treasury",
+    "tags": "testing",
+    "balance": 0.7567,
+    "available": 0.5
+  },
+  {
+    "id": "2",
+    "name": "Dani testing2",
+    "category": "treasury",
+    "tags": "testing2",
+    "balance": 2.45,
+    "available": 2.8
+  },
+  {
+    "id": "3",
+    "name": "Dani testing3",
+    "category": "treasury",
+    "tags": "testing3",
+    "balance": 2.3234,
+    "available": 3.1
+  },
+  {
+    "id": "4",
+    "name": "Dani testing4",
+    "category": "treasury",
+    "tags": "testing4",
+    "balance": 1.511,
+    "available": 2.9
+  },
+  {
+    "id": "5",
+    "name": "Dani testing5",
+    "category": "treasury",
+    "tags": "testing5",
+    "balance": 1.8,
+    "available": 1.2
+  },
+  {
+    "id": "6",
+    "name": "Dani testing6",
+    "category": "treasury",
+    "tags": "testing6",
+    "balance": 3,
+    "available": 2.4
+  },
+  {
+    "id": "7",
+    "name": "Dani testing7",
+    "category": "treasury",
+    "tags": "testing7",
+    "balance": 4,
+    "available": 3.5
+  },
+  {
+    "id": "8",
+    "name": "Dani testing8",
+    "category": "treasury",
+    "tags": "testing8",
+    "balance": 1.1,
+    "available": 1
+  },
+  {
+    "id": "9",
+    "name": "Dani testing9",
+    "category": "treasury",
+    "tags": "testing9",
+    "balance": 7,
+    "available": 6
+  },
+  {
+    "id": "10",
+    "name": "Dani testing10",
+    "category": "treasury",
+    "tags": "testing10",
+    "balance": 18,
+    "available": 15
+  },
+  {
+    "id": "11",
+    "name": "Dani testing11",
+    "category": "treasury",
+    "tags": "testing11",
+    "balance": 1.9,
+    "available": 1.7
+  },
+  {
+    "id": "12",
+    "name": "Dani testing12",
+    "category": "treasury",
+    "tags": "testing12",
+    "balance": 2.4,
+    "available": 2.1
+  },
+  {
+    "id": "13",
+    "name": "Dani testing13",
+    "category": "treasury",
+    "tags": "testing13",
+    "balance": 2.5,
+    "available": 2.4
+  },
+  {
+    "id": "14",
+    "name": "Dani testing14",
+    "category": "treasury",
+    "tags": "testing14",
+    "balance": 2.7,
+    "available": 1.2
+  },
+  {
+    "id": "15",
+    "name": "Dani testing15",
+    "category": "treasury",
+    "tags": "testing15",
+    "balance": 0.5,
+    "available": 1.7
+  }
+]
