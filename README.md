@@ -1,7 +1,9 @@
 AGR Senior test (Front side).
-This project work together with backend side (https://github.com/jlcafferata/agr-server-test)
 
 Proyect developed in React JS, with Typescript and Socket.io.client.
+
+This project work together with backend side (https://github.com/jlcafferata/agr-server-test)
+To verify the right works, it's recommended to run firstly backend side and, later on, start this front-end side project. 
 
 
 ## Available Scripts
