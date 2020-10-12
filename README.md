@@ -1,4 +1,5 @@
-AGR Senior test (Front part).
+AGR Senior test (Front side).
+This project work together with backend side (https://github.com/jlcafferata/agr-server-test)
 
 Proyect developed in React JS, with Typescript and Socket.io.client.
 
