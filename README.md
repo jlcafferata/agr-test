@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+AGR Senior test (Front part).
+
+Proyect developed in React JS, with Typescript and Socket.io.client.
+
 
 ## Available Scripts
 
